@@ -14,6 +14,7 @@ function Nav() {
             <div className="navbar-nav ms-auto py-0">
                 <a href="/" className="nav-item nav-link active">Home</a>
                 <a href="/about" className="nav-item nav-link">About</a>
+                <a href="/gallery" className="nav-item nav-link">Gallery</a>
                 
                 <div className="nav-item dropdown">
                     <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Course</a>

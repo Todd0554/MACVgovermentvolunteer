@@ -11,6 +11,6 @@ function NewsEvents() {
             </div>
     </div>
   )
-}:;
+};
 
 export default NewsEvents
