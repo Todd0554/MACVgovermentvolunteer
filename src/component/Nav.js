@@ -2,7 +2,7 @@
 function Nav() {
   return (
     <nav className="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
-        <a href="index.html" className="navbar-brand p-0">
+        <a href="/" className="navbar-brand p-0">
          <object data="img/Victoria-State-Government.svg" width="100" height="100"> </object>
          <object data="img/ll-logo (1).svg" style={{marginLeft: "15px"}} width="95" height="95"> </object>
          <object data="img/MACV Bigger Logo.svg" style={{marginLeft: "15px"}} width="75" height="75"> </object>
@@ -17,7 +17,7 @@ function Nav() {
                 <a href="/gallery" className="nav-item nav-link">Gallery</a>
                 
                 <div className="nav-item dropdown">
-                    <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Course</a>
+                    <a href="/" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Course</a>
                     <div className="dropdown-menu m-0">
                         <a href="/" className="dropdown-item">Coming soon...</a>
                         {/* <a href="/" className="dropdown-item">Course List</a>
@@ -25,7 +25,7 @@ function Nav() {
                     </div>
                 </div>
                 <a href="/newsevents" className="nav-item nav-link">News & Events</a>
-                <a href="/joinus" className="nav-item nav-link">Join Us</a>
+                {/* <a href="/joinus" className="nav-item nav-link">Join Us</a> */}
                 <a href="/contact" className="nav-item nav-link">Contact</a>
             </div>
         </div>

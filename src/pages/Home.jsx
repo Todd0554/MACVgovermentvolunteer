@@ -3,7 +3,6 @@ import Carousel from '../component/Carousel';
 import About from './About';
 import Course from './Course';
 import NewsEvents from './NewsEvents';
-import JoinUs from './JoinUs';
 import Contact from './Contact';
 import GalleryTes from '../component/GalleryTes';
 
@@ -15,7 +14,6 @@ function Home() {
       <Course/>
       <NewsEvents/>
       <GalleryTes/>
-      <JoinUs/>
       <Contact/>
 
     </div>

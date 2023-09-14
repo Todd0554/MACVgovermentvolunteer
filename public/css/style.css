@@ -297,3 +297,18 @@ h6,
     padding: 20px;
     
 }
+
+.btn-secondary1 {
+    color: #FFFFFF;
+}
+
+.btn-secondary1 {
+    background: var(--secondary);
+    border-color: var(--secondary);
+}
+
+.btn-secondary1:hover {
+
+    background: #fd8962;
+    border-color: #fd8962;
+}

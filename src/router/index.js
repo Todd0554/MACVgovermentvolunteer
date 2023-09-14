@@ -5,7 +5,6 @@ const About = React.lazy(() => import('../pages/About'));
 const Contact = React.lazy(() => import('../pages/Contact'));
 const NewsEvents = React.lazy(() => import('../pages/NewsEvents'));
 const Course = React.lazy(() => import('../pages/Course'));
-const Join = React.lazy(() => import('../pages/JoinUs'));
 const Gallery = React.lazy(() => import('../pages/Gallery'));
 
 
@@ -30,10 +29,6 @@ export const router = [
     {
         path:"/newsevents",
         element: NewsEvents
-    },
-    {
-        path:"/joinus",
-        element: Join
     },
     {
         path:"/gallery",
