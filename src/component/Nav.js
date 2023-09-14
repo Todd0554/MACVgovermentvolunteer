@@ -3,9 +3,9 @@ function Nav() {
   return (
     <nav className="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
         <a href="/" className="navbar-brand p-0">
-         <object data="img/Victoria-State-Government.svg" width="100" height="100"> </object>
-         <object data="img/ll-logo (1).svg" style={{marginLeft: "15px"}} width="95" height="95"> </object>
-         <object data="img/MACV Bigger Logo.svg" style={{marginLeft: "15px"}} width="75" height="75"> </object>
+         <object data="img/Victoria-State-Government.svg" width="70" height="70"> </object>
+         <object data="img/ll-logo (1).svg" style={{marginLeft: "8px"}} width="70" height="70"> </object>
+         <object data="img/MACV Bigger Logo.svg" style={{marginLeft: "5px"}} width="45" height="45"> </object>
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span className="navbar-toggler-icon"></span>
