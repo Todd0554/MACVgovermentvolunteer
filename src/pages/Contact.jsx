@@ -15,7 +15,7 @@ function Contact() {
                               <i className="bi bi-geo-alt fs-1 text-primary me-3"></i>
                               <div className="text-start">
                                   <h5 className="mb-0">Our Office</h5>
-                                  <span>123 Street, New York, USA</span>
+                                  <span>1 Karobran Dr, Vermont South VIC 3133</span>
                               </div>
                           </div>
                           <div className="d-flex align-items-center mb-2">
