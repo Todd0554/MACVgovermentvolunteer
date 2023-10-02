@@ -141,8 +141,8 @@ h6,
     }
 
     .carousel-caption h1 {
-        font-size: 30px;
-        font-weight: 600 !important;
+        font-size: 20px;
+        font-weight: 400 !important;
     }
 }
 
@@ -289,7 +289,6 @@ h6,
 
 .nae{
     background: hsla(200, 100%, 60%, 0.85);
-
     margin: 0 auto;
     text-align: center;
     font-size: 8px;
@@ -311,4 +310,12 @@ h6,
 
     background: #fd8962;
     border-color: #fd8962;
+}
+
+.pdf {
+    text-align: center;
+}
+
+.pdf .coursetext {
+    color: var(--primary);
 }

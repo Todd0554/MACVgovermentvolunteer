@@ -6,6 +6,7 @@ const Contact = React.lazy(() => import('../pages/Contact'));
 const NewsEvents = React.lazy(() => import('../pages/NewsEvents'));
 const Course = React.lazy(() => import('../pages/Course'));
 const Gallery = React.lazy(() => import('../pages/Gallery'));
+const Partnerships = React.lazy(() => import('../pages/Partnerships'));
 
 
 
@@ -33,6 +34,10 @@ export const router = [
     {
         path:"/gallery",
         element: Gallery
+    },
+    {
+        path:"/partnerships",
+        element: Partnerships
     }
 
 ]

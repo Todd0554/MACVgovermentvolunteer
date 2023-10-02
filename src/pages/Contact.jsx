@@ -22,14 +22,14 @@ function Contact() {
                               <i className="bi bi-envelope-open fs-1 text-primary me-3"></i>
                               <div className="text-start">
                                   <h5 className="mb-0">Email Us</h5>
-                                  <span>info@example.com</span>
+                                  <span>macvproject1@gmail.com</span>
                               </div>
                           </div>
                           <div className="d-flex align-items-center">
                               <i className="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                               <div className="text-start">
                                   <h5 className="mb-0">Call Us</h5>
-                                  <span>+012 345 6789</span>
+                                  <span>(03) 9803 2335</span>
                               </div>
                           </div>
                       </div>

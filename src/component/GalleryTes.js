@@ -12,8 +12,8 @@ function GalleryTes() {
                 </div>
                 <div className="col-lg-7">
                     <div className="section-title mb-5">
-                        <h5 className="position-relative d-inline-block text-primary text-uppercase">Gallery</h5>
-                        <h1 className="display-5 mb-0">We provide different activities for everyone!</h1>
+                        <h5 className="position-relative d-inline-block text-primary text-uppercase">Courses</h5>
+                        <h1 className="display-5 mb-0">We provide different courses for everyone!</h1>
                     </div>
                     <div className="row g-5">
                     <div className="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">

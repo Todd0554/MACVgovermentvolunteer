@@ -6,24 +6,23 @@ function Carousel() {
         <div id="header-carousel" className="carousel slide carousel-fade" data-bs-ride="carousel">
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img className="w-100" src="img/carousel-1.jpg" alt="Image"/>
+                    <img className="w-100" src="img/carousel-1.jpg" alt="carousel-1"/>
                     <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div className="p-3" style={{maxWidth: "900px"}}>
-                            <h5 className="text-white text-uppercase mb-3 animated slideInDown">We are MACV</h5>
-                            <h1 className="display-1 text-white mb-md-4 animated zoomIn">Let's build a harmonious community culture together</h1>
-
+                            <h5 className="text-white text-uppercase mb-3 animated slideInDown">MACV Alliance- Who are we?</h5>
+                            <h1 className="display-1 text-white mb-md-4 animated zoomIn">A 4 houses partnership aimed at delivering a broad range of entry level training courses. </h1>
                             <a href="/about" className="btn btn-secondary py-md-3 px-md-5 animated slideInRight">About Us</a>
                         </div>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img className="w-100" src="img/carousel-2.jpg" alt="Image"/>
+                    <img className="w-100" src="img/carousel-2.jpg" alt="carousel-2"/>
                     <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div className="p-3" style={{maxWidth: "900px"}}>
                             <h5 className="text-white text-uppercase mb-3 animated slideInDown">Contact us for more</h5>
                             <h1 className="display-1 text-white mb-md-4 animated zoomIn">Make community life rich and colorful</h1>
 
-                            <a href="" className="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                            <a href="/contact" className="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
                     </div>
                 </div>
