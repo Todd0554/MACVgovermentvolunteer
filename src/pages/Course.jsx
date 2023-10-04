@@ -9,7 +9,7 @@ function Course() {
           
           <h2 className="coursetext">Our Courses List</h2>
           <br />
-          <iframe className="coursepdf" title="coursepdf" src="/pdf/MACV Learn Local Courses - Semester 2 2023 (Learner Version).pdf" 
+          <iframe className="coursepdf" title="coursepdf" src="pdf/MACV Learn Local Courses - Semester 2 2023 (Learner Version).pdf" 
                   width="80%"
                   height="800">
           </iframe>
