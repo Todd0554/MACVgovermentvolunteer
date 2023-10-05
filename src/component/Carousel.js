@@ -10,7 +10,7 @@ function Carousel() {
                     <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div className="p-3" style={{maxWidth: "900px"}}>
                             <h5 className="text-white text-uppercase mb-3 animated slideInDown">MACV Alliance- Who are we?</h5>
-                            <h1 className="display-1 text-white mb-md-4 animated zoomIn">A 4 houses partnership aimed at delivering a broad range of entry level training courses. </h1>
+                            <h1 className="display-1 text-white mb-md-4 animated zoomIn">4 houses partnership aimed at delivering a broad range of entry level training courses. </h1>
                             <a href="/about" className="btn btn-secondary py-md-3 px-md-5 animated slideInRight">About Us</a>
                         </div>
                     </div>

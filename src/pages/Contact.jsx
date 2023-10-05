@@ -1,8 +1,12 @@
 import React from 'react'
+import Partnership from '../component/Partnership'
 
 function Contact() {
   return (
-  <div className="container-fluid py-5">
+    <div>
+        <h2 className="coursetext" style={{"textAlign": "center", "paddingTop":"40px"}}>Vermont South Neighbourhood House</h2>
+
+        <div className="container-fluid py-5">
           <div className="container">
               <div className="row g-5">
                   <div className="col-xl-4 col-lg-6 wow slideInUp" data-wow-delay="0.1s">
@@ -61,7 +65,13 @@ function Contact() {
                   </div>
               </div>
           </div>
+          
     </div>
+    <h2 className="coursetext" style={{"textAlign": "center"}}>Other MACV Houses</h2>
+
+        <Partnership />
+    </div>
+  
   )
 }
 
