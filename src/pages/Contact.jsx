@@ -39,7 +39,7 @@ function Contact() {
                       </div>
                   </div>
                   <div className="col-xl-4 col-lg-6 wow slideInUp" data-wow-delay="0.3s">
-                      <form action="https://formsubmit.co/toddy9229@outlook.com" method="POST" enctype="multipart/form-data" name="EmailForm">
+                      <form action="https://formsubmit.co/macvproject1@gmail.com" method="POST" enctype="multipart/form-data" name="EmailForm">
                           <div className="row g-3">
                               <div className="col-12">
 
@@ -61,7 +61,7 @@ function Contact() {
                       </form>
                   </div>
                   <div className="col-xl-4 col-lg-12 wow slideInUp" data-wow-delay="0.6s">
-                    <iframe title="map" className="position-relative rounded w-100 h-100" width="600" height="450" loading="lazy" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ__9kAOI-1moRHSNd-xkjXns&key=AIzaSyBlAZbyVDzw5yx-pa6-5dWZbPyPtu0Q8c0" frameborder="0" style={{minHeight: "400px", border:"0"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    <iframe title="map" className="position-relative rounded w-100 h-100" width="600" height="450" loading="lazy" src="https://www.google.com/maps/embed/v1/place?q=Vermont%20South%20Neighbourhood%20House&key=AIzaSyBlAZbyVDzw5yx-pa6-5dWZbPyPtu0Q8c0" frameborder="0" style={{minHeight: "400px", border:"0"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                   </div>
               </div>
           </div>

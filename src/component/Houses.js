@@ -18,8 +18,8 @@ function houses() {
           
           
         </div>
-        <div className="col-md-6" style={{"backgroundColor":"#ddf6ff","height": "150px", "margin":"auto", "textAlign":"center","paddingTop":"15px","paddingBottom":"15px"}}>
-          <img src="img/house1.png" alt="house1" style={{"height": "100%"}}/>
+        <div className="col-md-6" style={{"backgroundColor":"#ddf6ff","height": "150px", "margin":"auto", "display":"flex", "justifyContent": "center","textAlign":"center","paddingTop":"15px","paddingBottom":"15px"}}>
+          <img src="img/house1.png" alt="house1" style={{"margin":"0 auto"}}/>
           
         </div>
 

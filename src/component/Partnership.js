@@ -4,8 +4,8 @@ function Partnership() {
   return (
     <div className="container-fluid py-5">
             <div className="container">
-              <div className="row g-5">
-                    <div className="col-xl-4 col-lg-6 wow slideInUp" data-wow-delay="0.1s">
+              <div className="row g-5" style={{"marginBottom":"40px"}}>
+                    <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.1s">
                         <div className="bg-light rounded h-100 p-5">
                             <h1 className="display-6 mb-4">Mitcham Community House</h1>
                             <div className="d-flex align-items-center mb-2">
@@ -31,7 +31,14 @@ function Partnership() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-xl-4 col-lg-6 wow slideInUp" data-wow-delay="0.1s">
+                    <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.6s">
+                    <iframe title="map" className="position-relative rounded w-100 h-100" width="600" height="450" loading="lazy" src="https://www.google.com/maps/embed/v1/place?q=Mitcham%20Community%20House&key=AIzaSyBlAZbyVDzw5yx-pa6-5dWZbPyPtu0Q8c0" frameborder="0" style={{minHeight: "400px", border:"0"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                  </div>
+                    
+                  </div>
+
+                  <div className="row g-5" style={{"marginBottom":"40px"}}>
+                    <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.1s">
                         <div className="bg-light rounded h-100 p-5">
                             <h1 className="display-6 mb-4">Avenue Neighbourhood House @ Eley</h1>
                             <div className="d-flex align-items-center mb-2">
@@ -57,7 +64,12 @@ function Partnership() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-xl-4 col-lg-6 wow slideInUp" data-wow-delay="0.1s">
+                    <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.6s">
+                    <iframe title="map" className="position-relative rounded w-100 h-100" width="600" height="450" loading="lazy" src="https://www.google.com/maps/embed/v1/place?q=Avenue%20Neighbourhood%20House%20%40%20Eley&key=AIzaSyBlAZbyVDzw5yx-pa6-5dWZbPyPtu0Q8c0" frameborder="0" style={{minHeight: "400px", border:"0"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                  </div>
+</div>
+<div className="row g-5" style={{"marginBottom":"40px"}}>
+                    <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.1s">
                         <div className="bg-light rounded h-100 p-5">
                             <h1 className="display-6 mb-4">Clota Cottage Neighbourhood House</h1>
                             <div className="d-flex align-items-center mb-2">
@@ -82,7 +94,11 @@ function Partnership() {
                                 </div>
                             </div>
                         </div>
+                        
                     </div>
+                    <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.6s">
+                    <iframe title="map" className="position-relative rounded w-100 h-100" width="600" height="450" loading="lazy" src="https://www.google.com/maps/embed/v1/place?q=Clota%20Cottage%20Neighbourhood%20House&key=AIzaSyBlAZbyVDzw5yx-pa6-5dWZbPyPtu0Q8c0" frameborder="0" style={{minHeight: "400px", border:"0"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                  </div>
                 </div>
             </div>
             

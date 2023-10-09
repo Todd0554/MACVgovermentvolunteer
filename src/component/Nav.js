@@ -3,7 +3,7 @@ function Nav() {
   return (
     <nav className="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
         <a href="/" className="navbar-brand p-0">
-         <object data="img/logof.png" height="150px"> </object>
+         <object data="img/logof.png" width="250px"> </object>
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span className="navbar-toggler-icon"></span>
