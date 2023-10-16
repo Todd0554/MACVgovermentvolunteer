@@ -4,7 +4,7 @@ import Partnership from '../component/Partnership'
 function Contact() {
   return (
     <div>
-        <h2 className="coursetext" style={{"textAlign": "center", "paddingTop":"40px"}}>Contact Us</h2>
+        <h2 className="position-relative text-primary text-uppercase" style={{"textAlign": "center", "paddingTop":"40px"}}>Contact Us</h2>
 
         <div className="container-fluid py-5" style={{"width": "500px"}}>
           <div className="container">

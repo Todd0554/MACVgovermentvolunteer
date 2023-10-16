@@ -167,7 +167,7 @@ h6,
 
 .section-title h5::before {
     position: absolute;
-    content: "";
+    /* content: ""; */
     width: 45px;
     height: 3px;
     right: -55px;
@@ -175,7 +175,7 @@ h6,
     background: var(--primary);
 }
 
-.section-title h5::after {
+/* .section-title h5::after {
     position: absolute;
     content: "";
     width: 15px;
@@ -183,7 +183,7 @@ h6,
     right: -75px;
     bottom: 11px;
     background: var(--secondary);
-}
+} */
 
 .twentytwenty-wrapper {
     height: 100%;
@@ -292,7 +292,7 @@ h6,
     margin: 0 auto;
     text-align: center;
     font-size: 8px;
-    width: 70%;
+    width: 80%;
     padding: 20px;
     
 }
@@ -313,9 +313,7 @@ h6,
 }
 
 .pdf {
-    text-align: center;
-}
-
-.pdf .coursetext {
-    color: var(--primary);
+    width: 100%;
+    padding: 30px;
+    background: var(--primary);
 }

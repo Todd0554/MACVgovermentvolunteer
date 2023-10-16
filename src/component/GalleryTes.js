@@ -12,7 +12,7 @@ function GalleryTes() {
                 </div>
                 <div className="col-lg-7">
                     <div className="section-title mb-5">
-                        <h5 className="position-relative d-inline-block text-primary text-uppercase">Courses</h5>
+                        <h5 className="position-relative text-primary text-uppercase">Courses</h5>
                         <h1 className="display-5 mb-0">We provide variety of courses for everyone!</h1>
                     </div>
                     <div className="row g-5">
