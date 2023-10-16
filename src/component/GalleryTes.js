@@ -18,7 +18,7 @@ function GalleryTes() {
                     <div className="row g-5">
                     <div className="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div className="rounded-top overflow-hidden">
-                                <img className="img-fluid" src="img/Hospitality.jpg" alt="Hospitality" style={{ height: '70%'}}/>
+                                <img className="img-fluid" src="img/Hospitality.jpg" alt="Hospitality" style={{"width": '100%'}}/>
                             </div>
                             <div className="position-relative bg-light rounded-bottom text-center p-4">
                                 <h5 className="m-0">Introduction to Hospitality. Learn the basics of working in the hospitality industry including barista skills training</h5>
@@ -27,7 +27,7 @@ function GalleryTes() {
                         
                         <div className="col-md-6 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div className="rounded-top overflow-hidden">
-                                <img className="img-fluid" src="img/Aged care.jpg" alt="Aged" style={{width: '100%'}}/>
+                                <img className="img-fluid" src="img/Aged care.jpg" alt="Aged" style={{"width": '100%'}}/>
                             </div>
                             <div className="position-relative bg-light rounded-bottom text-center p-4">
                                 <h5 className="m-0">Pathways to work in the Aged Care sector. Find out more about the aged care sector, its requirements and current employment opportunities</h5>
@@ -41,7 +41,7 @@ function GalleryTes() {
                     <div className="row g-5">
                     <div className="col-md-6 service-item wow zoomIn" data-wow-delay="0.9s">
                             <div className="rounded-top overflow-hidden">
-                                <img className="img-fluid" src="img/Digital learning.jpg" alt="learning" style={{width: '100%'}}/>
+                                <img className="img-fluid" src="img/Digital learning.jpg" alt="learning" style={{"width": '100%'}}/>
                             </div>
                             <div className="position-relative bg-light rounded-bottom text-center p-4">
                                 <h5 className="m-0">A wide range of digital skills courses are provided and include an introduction to Cloud Based Programs, Microsoft Office, Accounting, Trello for Event Management to name a few.</h5>
@@ -50,7 +50,7 @@ function GalleryTes() {
                     
                         <div className="col-md-6 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div className="rounded-top overflow-hidden">
-                                <img className="img-fluid" src="img/Early childhoood learning.jpg" alt="childhoood" style={{width: '100%'}}/>
+                                <img className="img-fluid" src="img/Early childhoood learning.jpg" alt="childhoood" style={{"width": '100%'}}/>
                             </div>
                             <div className="position-relative bg-light rounded-bottom text-center p-4">
                                 <h5 className="m-0">Pathways to work in the Early Childhood Education sector. Find out more about the aged care sector, its requirements and current employment opportunities </h5>
@@ -60,8 +60,7 @@ function GalleryTes() {
                 </div>
                 <div className="col-lg-5 service-item wow zoomIn" data-wow-delay="0.9s">
                     <div className="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-4">
-                        <h3 className="text-white mb-3">Join Us</h3>
-                        <p className="text-white mb-3">Are you a business or job provider and have learners who need to improve their skills, knowledge and confidence in a supportive environment? Now you can  refer them to your closest neighbourhood house.</p>
+                        <h3 className="text-white mb-3">Contact us for more!</h3>
                         <a href="/contact" className="btn btn-secondary1 py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                     </div>
                 </div>
