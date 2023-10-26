@@ -6,7 +6,7 @@ function Nav() {
          <object data="img/MACV Bigger Logo.png" width="100px" aria-labelledby="label1"/>
         </a>
         <div className="collapse navbar-collapse" >
-          <object data="img/leftlogo.png" width="180px" aria-labelledby="label2"/>
+          <object data="img/leftlogo.png" height="100px" aria-labelledby="label2"/>
         </div>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span className="navbar-toggler-icon"></span>
