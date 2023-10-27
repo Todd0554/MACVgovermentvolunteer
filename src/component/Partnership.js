@@ -15,13 +15,13 @@ function Partnership() {
                                     <span>macvproject1@gmail.com</span>
                                 </div>
                             </div>
-                            <div className="d-flex align-items-center">
+                            {/* <div className="d-flex align-items-center">
                                 <i className="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                                 <div className="text-start">
                                     <h5 className="mb-0">Call Us</h5>
                                     <span>(03) 9873 4587</span>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                     <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.6s">
@@ -48,13 +48,13 @@ function Partnership() {
                                     <span>info@theavenue.org.au</span>
                                 </div>
                             </div>
-                            <div className="d-flex align-items-center">
+                            {/* <div className="d-flex align-items-center">
                                 <i className="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                                 <div className="text-start">
                                     <h5 className="mb-0">Call Us</h5>
                                     <span>(03) 9808 2000</span>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                     <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.6s">
@@ -79,13 +79,13 @@ function Partnership() {
                                         <span>admin@clotacottage.org.au</span>
                                     </div>
                                 </div>
-                                <div className="d-flex align-items-center">
+                                {/* <div className="d-flex align-items-center">
                                     <i className="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                                     <div className="text-start">
                                         <h5 className="mb-0">Call Us</h5>
                                         <span>(03) 9899 0062</span>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                             
                         </div>
@@ -112,13 +112,13 @@ function Partnership() {
                                         <span>info@mitchamcommunityhouse.org</span>
                                     </div>
                                 </div>
-                                <div className="d-flex align-items-center">
+                                {/* <div className="d-flex align-items-center">
                                     <i className="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                                     <div className="text-start">
                                         <h5 className="mb-0">Call Us</h5>
                                         <span>03-9873-4587</span>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                             
                         </div>
