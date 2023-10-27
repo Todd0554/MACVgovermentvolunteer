@@ -2,14 +2,78 @@ import React from 'react'
 
 function Gallery() {
   return (
-    <div className="row">
-       <div className="col-md-6" style={{"margin":"auto", "padding":"15px 40px","textAlign":"center","paddingBottom":"15px"}}>
-        <img style={{"width": "80%"}} src="img/VSNH art wall.jpeg" alt="VSNH art wall" />
-       </div>
-       <div className="col-md-6" style={{"margin":"auto", "padding":"15px 40px","textAlign":"center","paddingBottom":"15px"}}>
-        <img style={{"width": "80%"}} src="img/VSNH front .jpeg" alt="VSNH front" />
-       </div>
+    <div class="container px-0">
+  <div class="pp-gallery">
+    <div class="card-columns">
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p1.jpg" alt="Clota Cottage"/>
+            <figcaption>
+              <div class="h4">Clota Cottage</div>
+              <p>Neighbourhood House</p>
+            </figcaption>
+          </figure>
+      </div>
+
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p2.jpg" alt="meeting room"/>
+            <figcaption>
+              <div class="h4">Vermont South Neighbourhood House</div>
+              <p>Meeting Room</p>
+            </figcaption>
+          </figure>
+      </div>
+
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p3.jpeg" alt="meeting room"/>
+            <figcaption>
+              <div class="h4">Clota Cottage Neighbourhood House</div>
+              <p>Notice Wall</p>
+            </figcaption>
+          </figure>
+      </div>
+
+
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p4.jpg" alt="meeting room"/>
+            <figcaption>
+              <div class="h4">Vermont South Neighbourhood House</div>
+              <p>Living Space</p>
+            </figcaption>
+          </figure>
+      </div>
+
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p5.jpg" alt="meeting room"/>
+            <figcaption>
+              <div class="h4">Vermont South Neighbourhood House</div>
+              <p>Well Equipped!</p>
+            </figcaption>
+          </figure>
+      </div>
+
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p6.jpeg" alt="meeting room"/>
+            <figcaption>
+              <div class="h4">Vermont South</div>
+              <p>Neighbourhood House</p>
+            </figcaption>
+          </figure>
+      </div>
+
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p7.jpeg" alt="meeting room"/>
+            <figcaption>
+              <div class="h4">Vermont South Neighbourhood House</div>
+              <p>Wall of Art</p>
+            </figcaption>
+          </figure>
+      </div>
+
+
+      
     </div>
+  </div>
+</div>
   )
 }
 
