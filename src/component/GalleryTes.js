@@ -70,8 +70,8 @@ function GalleryTes() {
                 </div>
                 <div className="col-lg-5 service-item wow zoomIn" data-wow-delay="0.9s">
                     <div className="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-4">
-                        <h3 className="text-white mb-3">Contact us for more!</h3>
-                        <a href="/contact" className="btn btn-secondary1 py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                        <h3 className="text-white mb-3">Choose your course now!</h3>
+                        <a href="/course/courseselect" className="btn btn-secondary1 py-md-3 px-md-5 animated slideInRight">Select your course</a>
                     </div>
                 </div>
             </div>

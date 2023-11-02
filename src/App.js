@@ -9,7 +9,7 @@ import {
   import { router } from './router/index';
 import Nav from './component/Nav';
 import Spinner from './component/Spinner';
-import Top from './component/Top';
+// import Top from './component/Top';
 import Footer from './component/Footer';
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
       
       <Spinner />
       <BrowserRouter>
-      <Top />
+      {/* <Top /> */}
       <Nav />
         <React.Suspense>
           <Routes>

@@ -1,5 +1,5 @@
 import React from 'react'
-import Partnership from '../component/Partnership'
+import Maps from '../component/Maps'
 
 function Contact() {
   return (
@@ -10,7 +10,7 @@ function Contact() {
           <div className="container">
               <div className="row g-5">
                   <div className="col-xl-12 col-lg-12 wow slideInUp" data-wow-delay="0.3s">
-                      <form action="https://formsubmit.co/macvproject1@gmail.com" method="POST" enctype="multipart/form-data" name="EmailForm">
+                      <form action="https://formsubmit.co/6a069c42b3ad460f0c6a1e112a9c2b30" method="POST" enctype="multipart/form-data" name="EmailForm">
                           <div className="row g-3">
                               <div className="col-12">
                                   <input type="text" className="form-control border-0 bg-light px-4" placeholder="Your Name" style={{height: "55px"}} name="Name" required/>
@@ -35,7 +35,7 @@ function Contact() {
     </div>
     <h2 className="coursetext" style={{"textAlign": "center"}}>MACV Houses Details</h2>
 
-        <Partnership />
+        <Maps />
     </div>
   
   )

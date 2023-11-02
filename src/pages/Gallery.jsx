@@ -8,8 +8,7 @@ function Gallery() {
       <div class="card">
           <figure class="pp-effect"><img class="img-fluid" src="img/p1.jpg" alt="Clota Cottage"/>
             <figcaption>
-              <div class="h4">Clota Cottage</div>
-              <p>Neighbourhood House</p>
+              <div class="h4">Clota Cottage Neighbourhood House</div>
             </figcaption>
           </figure>
       </div>
@@ -54,8 +53,7 @@ function Gallery() {
       <div class="card">
           <figure class="pp-effect"><img class="img-fluid" src="img/p6.jpeg" alt="meeting room"/>
             <figcaption>
-              <div class="h4">Vermont South</div>
-              <p>Neighbourhood House</p>
+              <div class="h4">Vermont South Neighbourhood House</div>
             </figcaption>
           </figure>
       </div>
@@ -68,9 +66,40 @@ function Gallery() {
             </figcaption>
           </figure>
       </div>
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p11.jpg" alt="Mitcham garden2"/>
+            <figcaption>
+              <div class="h4">Mitcham Community Neighbourhood House</div>
+              <p>Public Garden</p>
+            </figcaption>
+          </figure>
+      </div>
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p8.jpg" alt="Mitcham"/>
+            <figcaption>
+              <div class="h4">Mitcham Community Neighbourhood House</div>
+            </figcaption>
+          </figure>
+      </div>
 
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p9.jpg" alt="Mitcham wall"/>
+            <figcaption>
+              <div class="h4">Mitcham Community Neighbourhood House</div>
+              <p>Wall of Art</p>
+            </figcaption>
+          </figure>
+      </div>
 
-      
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p10.jpg" alt="Mitcham garden"/>
+            <figcaption>
+              <div class="h4">Mitcham Community Neighbourhood House</div>
+              <p>Public Garden</p>
+            </figcaption>
+          </figure>
+      </div>
+
     </div>
   </div>
 </div>

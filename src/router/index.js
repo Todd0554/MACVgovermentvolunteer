@@ -28,6 +28,10 @@ export const router = [
         element: Course
     },
     {
+        path:"/course/courseselect",
+        element: Course
+    },
+    {
         path:"/newsevents",
         element: NewsEvents
     },

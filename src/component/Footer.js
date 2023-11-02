@@ -27,9 +27,9 @@ function Footer() {
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <h3 className="text-white mb-4">Get In Touch</h3>
-                        <p className="mb-2"><i className="bi bi-geo-alt text-primary me-2"></i>1 Karobran Dr, Vermont South VIC 3133</p>
+                        {/* <p className="mb-2"><i className="bi bi-geo-alt text-primary me-2"></i>1 Karobran Dr, Vermont South VIC 3133</p> */}
                         <p className="mb-2"><i className="bi bi-envelope-open text-primary me-2"></i>macvproject1@gmail.com</p>
-                        <p className="mb-0"><i className="bi bi-telephone text-primary me-2"></i>(03) 9803 2335</p>
+                        {/* <p className="mb-0"><i className="bi bi-telephone text-primary me-2"></i>(03) 9803 2335</p> */}
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <h3 className="text-white mb-4">Follow Us</h3>
