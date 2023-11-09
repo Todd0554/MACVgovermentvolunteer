@@ -25,12 +25,12 @@ function Footer() {
                             <a className="text-light mb-2" href="/"><i className="bi bi-arrow-right text-primary me-2"></i>Home</a>
                             <a className="text-light mb-2" href="/about"><i className="bi bi-arrow-right text-primary me-2"></i>About Us</a>
                             <a className="text-light" href="/contact"><i className="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
-                            { userInfo ? (
+                            {/* { userInfo ? (
                                 <a className="text-light" onClick={logOutHandler} href="/"><i className="bi bi-arrow-right text-primary me-2"></i>Admin Logout</a>
                             ) : (
                             
                                 <a className="text-light" href="/admin"><i className="bi bi-arrow-right text-primary me-2"></i>Admin Login</a>
-                            )}
+                            )} */}
                             
 
                            
