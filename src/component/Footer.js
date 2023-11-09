@@ -1,6 +1,16 @@
 import React from 'react'
+import { useDispatch, useSelector } from "react-redux";
+import { logOut } from "../actions/userActions";
 
 function Footer() {
+  const dispatch = useDispatch();
+
+    const userLogIn = useSelector((state) => state.userLogIn);
+    const { userInfo } = userLogIn;
+
+    const logOutHandler = (e) => {
+        dispatch(logOut());
+      };
     const user={
         facebook:"https://www.facebook.com/profile.php?id=61550684515765",
         linkedin: "https://www.linkedin.com/company/macv1/mycompany/?viewAsMember=true"
@@ -15,6 +25,15 @@ function Footer() {
                             <a className="text-light mb-2" href="/"><i className="bi bi-arrow-right text-primary me-2"></i>Home</a>
                             <a className="text-light mb-2" href="/about"><i className="bi bi-arrow-right text-primary me-2"></i>About Us</a>
                             <a className="text-light" href="/contact"><i className="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
+                            { userInfo ? (
+                                <a className="text-light" onClick={logOutHandler} href="/"><i className="bi bi-arrow-right text-primary me-2"></i>Admin Logout</a>
+                            ) : (
+                            
+                                <a className="text-light" href="/admin"><i className="bi bi-arrow-right text-primary me-2"></i>Admin Login</a>
+                            )}
+                            
+
+                           
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-6">

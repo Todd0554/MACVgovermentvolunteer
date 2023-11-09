@@ -100,6 +100,33 @@ function Gallery() {
           </figure>
       </div>
 
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p12.png" alt="Avenue Neighbourhood House"/>
+            <figcaption>
+              <div class="h4">Avenue Neighbourhood House @ Eley</div>
+              <p>Public Garden</p>
+            </figcaption>
+          </figure>
+      </div>
+
+
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p13.jpg" alt="Avenue Neighbourhood House"/>
+            <figcaption>
+              <div class="h4">Avenue Neighbourhood House @ Eley</div>
+            </figcaption>
+          </figure>
+      </div>
+
+
+      <div class="card">
+          <figure class="pp-effect"><img class="img-fluid" src="img/p14.jpg" alt="Avenue Neighbourhood House"/>
+            <figcaption>
+              <div class="h4">Avenue Neighbourhood House @ Eley</div>
+            </figcaption>
+          </figure>
+      </div>
+      
     </div>
   </div>
 </div>

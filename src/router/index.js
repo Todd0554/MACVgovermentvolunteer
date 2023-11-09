@@ -7,6 +7,8 @@ const NewsEvents = React.lazy(() => import('../pages/NewsEvents'));
 const Course = React.lazy(() => import('../pages/Course'));
 const Gallery = React.lazy(() => import('../pages/Gallery'));
 const Partnerships = React.lazy(() => import('../pages/Partnerships'));
+const Admin = React.lazy(() => import('../pages/Admin'));
+
 
 
 
@@ -42,6 +44,10 @@ export const router = [
     {
         path:"/partnerships",
         element: Partnerships
+    },
+    {
+        path:"/admin",
+        element: Admin
     }
 
 ]

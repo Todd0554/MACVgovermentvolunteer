@@ -108,8 +108,8 @@ function Maps() {
                             <div className="d-flex align-items-center mb-2">
                                 <i className="bi bi-envelope-open fs-1 text-primary me-3"></i>
                                 <div className="text-start">
-                                    <h5 className="mb-0">Email Us</h5>
-                                    <span>macvproject1@gmail.com</span>
+                                    <h5 className="mb-0">www.vsnh.org.au/</h5>
+                                    <span>info@vsnh.org.au</span>
                                 </div>
                             </div>
                             {/* <div className="d-flex align-items-center">
