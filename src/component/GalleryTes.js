@@ -47,7 +47,7 @@ function GalleryTes() {
                     <div className="row g-5">
                     <div className="col-md-6 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div className="rounded-top overflow-hidden">
-                                <img className="img-fluid" src="img/employability.png" alt="Aged" style={{"width": '100%'}}/>
+                                <img className="img-fluid" src="img/Aged care.jpg" alt="Aged" style={{"width": '100%'}}/>
                             </div>
                             <div className="position-relative bg-light rounded-bottom p-4">
                                 <h5 className="m-0">Some of our employability skills courses include:</h5>
