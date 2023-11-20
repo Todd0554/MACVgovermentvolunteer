@@ -17,8 +17,6 @@ function Course() {
         </div>
         <div style={{"textAlign": "center"}}>
           <br />
-          <h2 className="coursetext">For information about each course, please review the Course Guide:</h2>
-          <br />
           <iframe className="coursepdf" title="coursepdf" src="pdf/MACV Learn Local Courses - Semester 2 2023 (Learner Version).pdf" 
                   width="80%"
                   height="800">

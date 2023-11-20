@@ -16,8 +16,8 @@ function Gallery() {
       <div class="card">
           <figure class="pp-effect"><img class="img-fluid" src="img/p2.jpg" alt="meeting room"/>
             <figcaption>
-              <div class="h4">Vermont South Neighbourhood House</div>
-              <p>Meeting Room</p>
+              <div class="h4">Clota Cottage Neighbourhood House</div>
+              <p>Community room</p>
             </figcaption>
           </figure>
       </div>
@@ -35,8 +35,8 @@ function Gallery() {
       <div class="card">
           <figure class="pp-effect"><img class="img-fluid" src="img/p4.jpg" alt="meeting room"/>
             <figcaption>
-              <div class="h4">Vermont South Neighbourhood House</div>
-              <p>Living Space</p>
+              <div class="h4">Clota Cottage Neighbourhood House</div>
+              <p>Community room</p>
             </figcaption>
           </figure>
       </div>
@@ -44,7 +44,7 @@ function Gallery() {
       <div class="card">
           <figure class="pp-effect"><img class="img-fluid" src="img/p5.jpg" alt="meeting room"/>
             <figcaption>
-              <div class="h4">Vermont South Neighbourhood House</div>
+              <div class="h4">Clota Cottage Neighbourhood House</div>
               <p>Well Equipped!</p>
             </figcaption>
           </figure>
@@ -69,15 +69,15 @@ function Gallery() {
       <div class="card">
           <figure class="pp-effect"><img class="img-fluid" src="img/p11.jpg" alt="Mitcham garden2"/>
             <figcaption>
-              <div class="h4">Mitcham Community Neighbourhood House</div>
-              <p>Public Garden</p>
+              <div class="h4">Mitcham Community House</div>
+              <p>Community Garden</p>
             </figcaption>
           </figure>
       </div>
       <div class="card">
           <figure class="pp-effect"><img class="img-fluid" src="img/p8.jpg" alt="Mitcham"/>
             <figcaption>
-              <div class="h4">Mitcham Community Neighbourhood House</div>
+              <div class="h4">Mitcham Community House</div>
             </figcaption>
           </figure>
       </div>
@@ -85,7 +85,7 @@ function Gallery() {
       <div class="card">
           <figure class="pp-effect"><img class="img-fluid" src="img/p9.jpg" alt="Mitcham wall"/>
             <figcaption>
-              <div class="h4">Mitcham Community Neighbourhood House</div>
+              <div class="h4">Mitcham Community House</div>
               <p>Wall of Art</p>
             </figcaption>
           </figure>
@@ -94,8 +94,8 @@ function Gallery() {
       <div class="card">
           <figure class="pp-effect"><img class="img-fluid" src="img/p10.jpg" alt="Mitcham garden"/>
             <figcaption>
-              <div class="h4">Mitcham Community Neighbourhood House</div>
-              <p>Public Garden</p>
+              <div class="h4">Mitcham Community House</div>
+              <p>Community Garden</p>
             </figcaption>
           </figure>
       </div>
@@ -104,7 +104,7 @@ function Gallery() {
           <figure class="pp-effect"><img class="img-fluid" src="img/p12.png" alt="Avenue Neighbourhood House"/>
             <figcaption>
               <div class="h4">Avenue Neighbourhood House @ Eley</div>
-              <p>Public Garden</p>
+              <p>Entrance</p>
             </figcaption>
           </figure>
       </div>

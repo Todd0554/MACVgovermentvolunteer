@@ -6,7 +6,7 @@ function Carousel() {
         <div id="header-carousel" className="carousel slide carousel-fade" data-bs-ride="carousel">
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img className="w-100" src="img/carousel-1.jpg" alt="carousel-1"/>
+                    <img className="w-100" src="img/carousel-1.jpeg" alt="carousel-1"/>
                     <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div className="p-3" style={{maxWidth: "900px"}}>
                             <h5 className="text-white text-uppercase mb-3 animated slideInDown" style={{"fontSize": "60px"}}>Who are we?</h5>
