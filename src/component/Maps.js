@@ -132,7 +132,7 @@ function Maps() {
                             
                         </div>
                         <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.6s">
-                        <iframe title="map" className="position-relative rounded w-100 h-100" width="600" height="450" loading="lazy" src="https://www.google.com/maps/embed/v1/place?q=Mitcham%20Community%20House%20Inc.&key=AIzaSyBlAZbyVDzw5yx-pa6-5dWZbPyPtu0Q8c0" frameborder="0" style={{minHeight: "400px", border:"0"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        <iframe title="map" className="position-relative rounded w-100 h-100" width="600" height="450" loading="lazy" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ1UAWwY4_1moRO03ncsuONWM&key=AIzaSyBlAZbyVDzw5yx-pa6-5dWZbPyPtu0Q8c0" frameborder="0" style={{minHeight: "400px", border:"0"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                   </div>
                 </div>
             </div>
