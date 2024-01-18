@@ -17,10 +17,10 @@ function Course() {
         </div>
         <div style={{"textAlign": "center"}}>
           <br />
-          <iframe className="coursepdf" title="coursepdf" src="pdf/MACV Learn Local Courses - Semester 2 2023 (Learner Version).pdf" 
+          {/* <iframe className="coursepdf" title="coursepdf" src="pdf/MACV Learn Local Courses - Semester 2 2023 (Learner Version).pdf" 
                   width="80%"
                   height="800">
-          </iframe>
+          </iframe> */}
         </div>
 
     </div>
