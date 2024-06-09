@@ -16,7 +16,7 @@ function Footer() {
         linkedin: "https://www.linkedin.com/company/macv1/mycompany/?viewAsMember=true"
     }
   return (
-        <div className="container-fluid position-relative bg-dark text-light py-5 wow fadeInUp" data-wow-delay="0.3s" style={{bottom: "0"}}>
+        <div id="footer" className="container-fluid position-relative bg-dark text-light py-5 wow fadeInUp" data-wow-delay="0.3s" style={{bottom: "0"}}>
             <div className="container pt-5">
                 <div className="row g-5 pt-4">
                     <div className="col-lg-3 col-md-6">

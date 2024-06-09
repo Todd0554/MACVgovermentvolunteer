@@ -33,10 +33,7 @@ function App() {
         </React.Suspense>
        
       </BrowserRouter>
-     
       <Footer />
-
-      
       <a href="#top" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
     </div>
   );

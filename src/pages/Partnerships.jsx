@@ -2,10 +2,7 @@ import React from 'react'
 
 function Partnerships() {
   return (
-    <div style={{"textAlign": "center", "margin": "60px 10%"}}>
-      <h3>
-        
-      </h3>
+    <div style={{"textAlign": "center", "margin": "60px 10%", "height":"580px"}}> 
       <div className="service-item wow zoomIn" data-wow-delay="0.9s">
           <div className="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-4">
               <h1 className="text-white mb-3">Partner with us</h1>
