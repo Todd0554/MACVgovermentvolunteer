@@ -279,6 +279,10 @@ h6,
     background: var(--secondary);
 }
 
+#newsEvent {
+  height: 800px;
+} 
+
 .bg-testimonial {
     background: url(../img/lunch.jpg) center center no-repeat;
     background-size: cover;
@@ -328,12 +332,16 @@ h6,
     @media (max-width: 2000px) {
       .pp-gallery .card-columns {
         -moz-column-count: 3;
-             column-count: 3; } }
+             column-count: 3; } 
+            }
 
     @media (max-width: 1000px) {
       .pp-gallery .card-columns {
         -moz-column-count: 1;
-             column-count: 1; } }
+             column-count: 1; } 
+             #newsEvent {
+              height: 1400px;
+            } }
     .pp-gallery .card figure {
       position: relative;
       overflow: hidden;
@@ -437,8 +445,14 @@ h6,
     @media (max-width: 768px) and (min-width: 578px) {
       .pp-gallery figure.pp-effect:hover .h4 {
         padding-top: 20%;
-        font-size: 16px; } }
+        font-size: 16px; } 
+      }
     @media (max-width: 375px) {
       .pp-gallery figure.pp-effect:hover .h4 {
         padding-top: 20%;
-        font-size: 16px; } }
+        font-size: 16px; } 
+        }
+
+
+
+
