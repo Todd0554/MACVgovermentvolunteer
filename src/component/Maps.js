@@ -12,14 +12,14 @@ function Maps() {
                                     <i className="bi bi-geo-alt fs-1 text-primary me-3"></i>
                                     <div className="text-start">
                                         <h5 className="mb-0">Website</h5>
-                                        <a href="https://www.clotacottage.org.au" target="_blank" rel="noreferrer">https://www.mitchamcommunityhouse.org/</a>
+                                        <a href="https://www.clotacottage.org.au" target="_blank" rel="noreferrer" id="sizeToBig">https://www.clotacottage.org.au</a>
                                     </div>
                                 </div>
                                 <div className="d-flex align-items-center mb-2">
                                     <i className="bi bi-envelope-open fs-1 text-primary me-3"></i>
                                     <div className="text-start">
                                         <h5 className="mb-0">Email Us</h5>
-                                        <span>info@mitchamcommunityhouse.org</span>
+                                        <span id="sizeToBig">info@mitchamcommunityhouse.org</span>
                                     </div>
                                 </div>
                                 <div className="d-flex align-items-center">
@@ -102,7 +102,7 @@ function Maps() {
                 </div>
 
                 <div className="row g-5" style={{"marginBottom":"40px"}}>
-                        <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.1s">
+                    <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.1s">
                         <div className="bg-light rounded h-100 p-5">
                             <h1 className="display-6 mb-4">Vermont South Neighbourhood House</h1>
                             <div className="d-flex align-items-center mb-2">
@@ -128,10 +128,8 @@ function Maps() {
                                 </div>
                             </div>
                         </div>
-                            
-                            
-                        </div>
-                        <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.6s">
+                    </div>
+                    <div className="col-xl-6 col-lg-12 wow slideInUp" data-wow-delay="0.6s">
                         <iframe title="map" className="position-relative rounded w-100 h-100" width="600" height="450" loading="lazy" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ1UAWwY4_1moRO03ncsuONWM&key=AIzaSyBlAZbyVDzw5yx-pa6-5dWZbPyPtu0Q8c0" frameborder="0" style={{minHeight: "400px", border:"0"}} allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                   </div>
                 </div>

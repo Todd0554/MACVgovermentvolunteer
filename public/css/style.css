@@ -322,6 +322,17 @@ h6,
     background: var(--primary);
 }
 
+.partner {
+  height: 580px;
+}
+
+#contactPartner {
+  float: right;
+}
+#sizeToBig {
+  font-size: 12px;
+}
+
 
 .pp-gallery {
     min-height: 500px; }
@@ -452,7 +463,4 @@ h6,
         padding-top: 20%;
         font-size: 16px; } 
         }
-
-
-
 

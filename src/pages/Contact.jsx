@@ -3,9 +3,8 @@ import Maps from '../component/Maps'
 
 function Contact() {
   return (
-    <div>
+    <div className="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <h2 className="position-relative text-primary text-uppercase" style={{"textAlign": "center", "paddingTop":"40px"}}>Contact Us</h2>
-
         <div className="container-fluid py-5" style={{"width": "500px"}}>
           <div className="container">
               <div className="row g-5">
@@ -32,9 +31,8 @@ function Contact() {
                   </div>
               </div>
           </div>
-    </div>
-    <h2 className="coursetext" style={{"textAlign": "center"}}>MACV Houses Details</h2>
-
+        </div>
+        <h2 className="coursetext" style={{"textAlign": "center"}}>MACV Houses Details</h2>
         <Maps />
     </div>
   

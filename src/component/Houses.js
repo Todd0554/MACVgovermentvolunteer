@@ -4,15 +4,12 @@ function houses() {
   return (
     <div>
       <div className="row">
-      <div className="col-md-6" style={{"backgroundColor":"#ddf6ff","height": "100px", "margin":"auto", "textAlign":"center","paddingTop":"15px","paddingBottom":"15px"}}>
+        <div className="col-md-6" style={{"backgroundColor":"#ddf6ff","height": "100px", "margin":"auto", "textAlign":"center","paddingTop":"15px","paddingBottom":"15px"}}>
           <img src="img/house2.png" alt="house1" style={{"height": "100%"}}/>
         </div>
         <div className="col-md-6" style={{"backgroundColor":"#ddf6ff","height": "100px", "margin":"auto", "display":"flex", "justifyContent": "center","textAlign":"center","paddingTop":"15px","paddingBottom":"15px"}}>
           <img src="img/house1.png" alt="house1" style={{"margin":"0 auto"}}/>
-          
         </div>
-
-
       </div>
       <div className="row">
         <div className="col-md-6" style={{"backgroundColor":"#ddf6ff","height": "100px", "margin":"auto", "display":"flex", "justifyContent": "center","textAlign":"center","paddingTop":"15px","paddingBottom":"15px"}}>
