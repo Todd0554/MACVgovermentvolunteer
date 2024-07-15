@@ -144,6 +144,7 @@ h6,
         font-size: 20px;
         font-weight: 400 !important;
     }
+
 }
 
 .carousel-control-prev,
@@ -333,7 +334,6 @@ h6,
   font-size: 12px;
 }
 
-
 .pp-gallery {
     min-height: 500px; }
     .pp-gallery .card-columns .card {
@@ -457,6 +457,7 @@ h6,
       .pp-gallery figure.pp-effect:hover .h4 {
         padding-top: 20%;
         font-size: 16px; } 
+
       }
     @media (max-width: 375px) {
       .pp-gallery figure.pp-effect:hover .h4 {

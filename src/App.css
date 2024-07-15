@@ -1,0 +1,10 @@
+.nae {
+    margin-bottom: 30px;
+}
+
+@media (min-width: 798px) {
+    .nae {
+        padding: 20px 18%;
+    }
+}
+
