@@ -1,16 +1,19 @@
 import React from 'react'
-import { useDispatch, useSelector } from "react-redux";
-import { logOut } from "../actions/userActions";
+import { 
+    // useDispatch, 
+    // useSelector 
+} from "react-redux";
+// import { logOut } from "../actions/userActions";
 
 function Footer() {
-  const dispatch = useDispatch();
+//   const dispatch = useDispatch();
 
-    const userLogIn = useSelector((state) => state.userLogIn);
-    const { userInfo } = userLogIn;
+    // const userLogIn = useSelector((state) => state.userLogIn);
+    // const { userInfo } = userLogIn;
 
-    const logOutHandler = (e) => {
-        dispatch(logOut());
-      };
+    // const logOutHandler = (e) => {
+    //     dispatch(logOut());
+    //   };
     const user={
         facebook:"https://www.facebook.com/profile.php?id=61550684515765",
         linkedin: "https://www.linkedin.com/company/macv1/mycompany/?viewAsMember=true"

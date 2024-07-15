@@ -22,10 +22,9 @@ function GalleryTes() {
                                 <img className="img-fluid" src="img/Early childhoood learning.jpg" alt="childhoood" style={{"width": '100%'}}/>
                             </div>
                             <div className="position-relative bg-light rounded-bottom p-4">
-                                <h5 className="m-0">Some of our ‘taster’ industry courses include:</h5>
-                                &nbsp;&nbsp;&nbsp;•	Pathways to work in early childhood education and care
-                                <br></br>  &nbsp;&nbsp;&nbsp;•	Introduction to hospitality
-                                <br></br>  &nbsp;&nbsp;&nbsp;•	Pathways to work in the aged care sector
+                                <h5 className="m-0">Some of our 'taster' industry course include:</h5>
+                                &nbsp;&nbsp;&nbsp;•	Introduction to Hospitality
+                                <br></br>  &nbsp;&nbsp;&nbsp;•	Introduction to Customer Service
                             </div>
                         </div>
                         <div className="col-md-6 service-item wow zoomIn" data-wow-delay="0.9s">
@@ -34,8 +33,8 @@ function GalleryTes() {
                             </div>
                             <div className="position-relative bg-light rounded-bottom p-4">
                                 <h5 className="m-0">Some of our digital courses include:</h5>
-                                &nbsp;&nbsp;&nbsp;•	Introduction to Trello
-                                <br></br>  &nbsp;&nbsp;&nbsp;•	Introduction to Microsoft Office Suite
+                                &nbsp;&nbsp;&nbsp;•	Digital Essentials
+                                <br></br>  &nbsp;&nbsp;&nbsp;•	Introduction to Microsoft Word and Excel
                             </div>
                         </div>
                         
@@ -51,8 +50,7 @@ function GalleryTes() {
                             </div>
                             <div className="position-relative bg-light rounded-bottom p-4">
                                 <h5 className="m-0">Some of our employability skills courses include:</h5>
-                                &nbsp;&nbsp;&nbsp;•	Get back into it 
-                                <br></br>  &nbsp;&nbsp;&nbsp;•	Steps to job success
+                                &nbsp;&nbsp;&nbsp;•	Bounce Back! An introduction to Resilience Strategies
                             </div>
                         </div>
                         <div className="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
@@ -61,8 +59,8 @@ function GalleryTes() {
                             </div>
                             <div className="position-relative bg-light rounded-bottom p-4">
                                 <h5 className="m-0">Some of our language courses include:</h5>
-                                &nbsp;&nbsp;&nbsp;•	Auslan intermediate
-                                <br></br>  &nbsp;&nbsp;&nbsp;•	English conversation
+                                &nbsp;&nbsp;&nbsp;•	Auslan for Work and Study
+                                <br></br>  &nbsp;&nbsp;&nbsp;•	English for Migrants
                             </div>
                         </div>
                         

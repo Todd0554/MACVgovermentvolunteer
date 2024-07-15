@@ -10,8 +10,7 @@ function Course() {
           <h5 className="text-white">&nbsp;&nbsp;&nbsp;1. An Australian or New Zealand citizen or</h5>	
           <h5 className="text-white">&nbsp;&nbsp;&nbsp;2. Holder of an Australian permanent visa or</h5>	
           <h5 className="text-white">&nbsp;&nbsp;&nbsp;3. An asylum seeker holding a valid visa</h5>	
-          <h5 className="text-white">&nbsp;&nbsp;&nbsp;4. 17 years of age and over and not enrolled in school or with an exemption from school </h5>	
-          <h5 className="text-white">&nbsp;&nbsp;&nbsp;5. Courses are also available for a full fee if the prospective learner does not meet the criteria listed.</h5>
+          <h5 className="text-white">&nbsp;&nbsp;&nbsp;4. Courses are also available for a full fee if the prospective learner does not meet the criteria listed.</h5>
         </div>
         <div style={{"textAlign": "center"}}>
           <br />
